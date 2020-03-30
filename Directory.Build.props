@@ -27,7 +27,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <FluentVersion>1.32.0</FluentVersion>
+    <FluentVersion>1.32.0.2</FluentVersion>
     <VersionPrefix>$(FluentVersion)</VersionPrefix>
 
     <!-- Keep the assembly version pinned unless a breaking change is made -->
